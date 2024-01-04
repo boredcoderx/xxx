@@ -1,2 +1,2 @@
-timmu@gmail.com
-jiji@gmail.com
+email:timmu@gmail.com
+email:jiji@gmail.com
